@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chenshuai2144/antd-pro-merge-less.git"
+    "url": "git+https://github.com/crudo/antd-pro-merge-less.git"
   },
   "keywords": [
     "merge",
@@ -17,9 +17,9 @@
   "author": "chenshuai2144",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chenshuai2144/antd-pro-merge-less/issues"
+    "url": "https://github.com/crudo/antd-pro-merge-less/issues"
   },
-  "homepage": "https://github.com/chenshuai2144/antd-pro-merge-less#readme",
+  "homepage": "https://github.com/crudo/antd-pro-merge-less#readme",
   "dependencies": {
     "@ant-design/dark-theme": "^2.0.2",
     "css-selector-tokenizer": "^0.7.1",
